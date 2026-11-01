@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @xvasjack
-- 👀 I’m interested in investing.
-- 🌱 I’m currently learning python, html and css.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me. email me @ xvasjack@gmail.com
+Hi, I'm @xvasjack.
 
-<!---
-xvasjack/xvasjack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I work in M&A and build tools that speed up deal research: target screening, list validation, trading comps, profile slides and market research.
+
+Project: [Deal Tools](https://github.com/xvasjack/xvasjack.github.io)
+
+Contact: xvasjack@gmail.com
